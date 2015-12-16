@@ -1,0 +1,48 @@
+img:hover {
+  transition: all .2s ease-in-out;
+}
+img {
+  border-style: solid;
+  border-radius: 3px;
+  border-color: #66b3ff;
+  float: right;
+  width: 500px;
+  height: 300px;
+}
+h1{
+  text-align: center;
+  padding: 10px;
+}
+h2:hover{
+  background-color: yellow;
+  transition: all .2s ease-in-out;
+}
+h3 {
+  text-align: center;
+  border-style: solid;
+  border-radius: 50px;
+  background-color: #6666ff;
+  font-family: 
+}
+section {
+  border-style: solid;
+  border-radius: 50px;
+  border-color: #66b3ff;
+  box-shadow: 10px 10px 5px;
+  background-color: #66ffb3;
+}
+ol {
+  font-family: Lucida Console, Monaco, monospace;
+}
+ul {
+  font-family: Lucida Console, Monaco, monospace;
+}
+.strike {
+  text-decoration: line-through;
+  color: black;
+}
+.yellow {
+  background-color: yellow;
+}
+.highlight {
+}
